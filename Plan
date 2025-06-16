@@ -1,0 +1,16 @@
+Project Idea: Predictive Modeling of Survey Respondent Behavior
+
+Goal:
+Use past survey data to build a simple model that predicts something useful — like who’s likely to buy a product or how satisfied someone is.
+
+Step 1:
+Pick a survey dataset. Choose one thing to predict.
+
+Step 2:
+Clean and explore the data. Visualize patterns. Split into train/test sets.
+
+Step 3:
+Build and train a model (e.g., logistic regression).
+
+Step 4:
+Look at results and key features. Write a short summary.
